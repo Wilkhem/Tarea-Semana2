@@ -1,0 +1,1 @@
+inge, solo logre hacer el get exitosamente, pero a la hora de hacer post, no me dejo conectarme a la base de datos, me tiraba un error y no sé porque me daba error si lo tenía igual a como lo hicimos en la clase, adjunte una imagen del problema que me aparece.
